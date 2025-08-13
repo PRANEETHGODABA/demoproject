@@ -1,0 +1,16 @@
+{
+  "name": "rathi-rubber-website",
+  "version": "1.0.0",
+  "description": "Professional website for Rathi Rubber India Pvt. Ltd.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=3000 --open=/",
+    "start": "live-server --port=3000 --open=/"
+  },
+  "keywords": ["rubber", "manufacturing", "industrial", "website"],
+  "author": "Rathi Rubber India Pvt. Ltd.",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
